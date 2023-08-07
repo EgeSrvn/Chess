@@ -1,3 +1,4 @@
+#TEST
 import copy
 
 import pygame, sys
